@@ -4,5 +4,6 @@
         "flaskblog",
         "sqlalchemy",
         "wtforms"
-    ]
+    ],
+    "DockerRun.DisableAutoGenerateConfig": true
 }
